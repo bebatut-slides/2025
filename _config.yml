@@ -1,0 +1,6 @@
+title: Slides for 2025 talks - Bérénice Batut
+repository: bebatut-slides/2025
+baseurl: "/2025"
+remote_theme: bebatut-slides/bebatut-slide-theme
+plugins:
+- jekyll-remote-theme
